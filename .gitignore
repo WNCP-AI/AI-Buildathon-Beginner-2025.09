@@ -75,3 +75,9 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# Project documentation and local configs
+/PLAN.md
+/WRITING-GUIDE.md
+/.research/
+/.claude/
